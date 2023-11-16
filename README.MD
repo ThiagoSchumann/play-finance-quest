@@ -1,24 +1,30 @@
-# Finance Quest
+# RPG Maker MZ Project: Finance Quest
 
-Bem-vindo ao Finance Quest, um jogo de aventura financeira interativo desenvolvido com RPG Maker MZ. Neste jogo, você enfrentará desafios financeiros e tomará decisões estratégicas para prosperar e alcançar seus objetivos financeiros.
+## Descrição
+
+O Finance Quest é um jogo criado usando o RPG Maker MZ que oferece uma experiência única de aventura financeira. Entre em um mundo onde você deve enfrentar desafios financeiros e tomar decisões estratégicas para prosperar e alcançar seus objetivos financeiros.
 
 ## Como Jogar
 
-Finance Quest é fácil de jogar e acessível diretamente pelo seu navegador. Siga estes passos simples para começar:
+Para jogar o Finance Quest, siga estas etapas:
 
-1. Acesse o jogo pelo link: [Jogar Finance Quest](https://thiagoschumann.github.io/play-finance-quest/)
-2. O jogo será carregado diretamente no seu navegador. Não é necessário instalar nada!
-3. Siga as instruções na tela para começar sua aventura financeira.
+1. Clone este repositório em sua máquina local usando o seguinte comando:
 
-## Recursos do Jogo
+   ```
+   git clone https://github.com/ThiagoSchumann/finance-quest.git
+   ```
 
-- **Aventura Interativa:** Explore um mundo rico em desafios e oportunidades financeiras.
-- **Decisões Estratégicas:** Suas escolhas determinam seu sucesso financeiro no jogo.
-- **Aprendizado Financeiro:** Conceitos financeiros são integrados de forma divertida e educativa.
+2. Abra o RPG Maker MZ em sua máquina.
 
-## Feedback e Contribuições
+3. No RPG Maker MZ, abra o projeto Finance Quest navegando até o diretório em que você clonou o repositório.
 
-Seu feedback é valioso! Se você tiver sugestões, melhorias ou encontrar bugs, sinta-se à vontade para abrir uma issue no repositório do GitHub.
+4. Dentro do RPG Maker MZ, você poderá explorar o projeto, editar mapas, personagens e eventos para personalizar sua experiência de jogo.
+
+5. Inicie o jogo e mergulhe na aventura financeira!
+
+## Contribuição
+
+Contribuições são sempre bem-vindas! Se você tem sugestões, melhorias ou encontrou bugs, sinta-se à vontade para abrir uma issue ou um pull request.
 
 ## Licença
 
@@ -26,8 +32,4 @@ Este projeto segue a licença do RPG Maker MZ. Consulte a documentação do RPG 
 
 ## Contato
 
-Para mais informações ou dúvidas, entre em contato com o desenvolvedor Thiago Schumann em thiagoarturschumann@gmail.com.
-
----
-
-Desfrute de sua jornada em Finance Quest!
+Para entrar em contato com o desenvolvedor do Finance Quest, envie um e-mail para Thiago Schumann em thiagoarturschumann@gmail.com.
